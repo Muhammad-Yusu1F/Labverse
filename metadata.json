@@ -1,0 +1,6 @@
+{
+  "name": "LABVERSE — Virtual Tajriba Laboratoriyasi",
+  "description": "Maktab o‘quvchilari uchun zamonaviy, interaktiv fizika, kimyo, biologiya va tabiiy fanlar virtual tajriba laboratoriyasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
